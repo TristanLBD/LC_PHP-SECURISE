@@ -1,0 +1,1 @@
+stocker les ID cotés serveur, avec getenv() en php
